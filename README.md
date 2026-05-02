@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/midlajkk04-max/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/midlajkk04-max/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/midlajkk04-max/leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/midlajkk04-max/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1436-destination-city](https://github.com/midlajkk04-max/leetcode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/midlajkk04-max/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/midlajkk04-max/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/midlajkk04-max/leetcode/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/midlajkk04-max/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/midlajkk04-max/leetcode/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/midlajkk04-max/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/midlajkk04-max/leetcode/tree/master/0409-longest-palindrome) |
 | [1436-destination-city](https://github.com/midlajkk04-max/leetcode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/midlajkk04-max/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/midlajkk04-max/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/midlajkk04-max/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/midlajkk04-max/leetcode/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/midlajkk04-max/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/midlajkk04-max/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/midlajkk04-max/leetcode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/midlajkk04-max/leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/midlajkk04-max/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [3024-type-of-triangle](https://github.com/midlajkk04-max/leetcode/tree/master/3024-type-of-triangle) |
 ## Counting
 |  |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/midlajkk04-max/leetcode/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/midlajkk04-max/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/midlajkk04-max/leetcode/tree/master/0441-arranging-coins) |
 ## Greedy
 |  |
