@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/midlajkk04-max/leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/midlajkk04-max/leetcode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/midlajkk04-max/leetcode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/midlajkk04-max/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/midlajkk04-max/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/midlajkk04-max/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/midlajkk04-max/leetcode/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/midlajkk04-max/leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/midlajkk04-max/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/midlajkk04-max/leetcode/tree/master/0268-missing-number) |
