@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/midlajkk04-max/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/midlajkk04-max/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/midlajkk04-max/leetcode/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/midlajkk04-max/leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/midlajkk04-max/leetcode/tree/master/0441-arranging-coins) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/midlajkk04-max/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/midlajkk04-max/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/midlajkk04-max/leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/midlajkk04-max/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/midlajkk04-max/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/midlajkk04-max/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/midlajkk04-max/leetcode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/midlajkk04-max/leetcode/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/midlajkk04-max/leetcode/tree/master/0461-hamming-distance) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/midlajkk04-max/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/midlajkk04-max/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/midlajkk04-max/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/midlajkk04-max/leetcode/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
