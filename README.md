@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/midlajkk04-max/leetcode/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/midlajkk04-max/leetcode/tree/master/0016-3sum-closest) |
+| [0039-combination-sum](https://github.com/midlajkk04-max/leetcode/tree/master/0039-combination-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/midlajkk04-max/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/midlajkk04-max/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/midlajkk04-max/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/midlajkk04-max/leetcode/tree/master/0039-combination-sum) |
 | [0401-binary-watch](https://github.com/midlajkk04-max/leetcode/tree/master/0401-binary-watch) |
 ## Recursion
 |  |
