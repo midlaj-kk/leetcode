@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/midlajkk04-max/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/midlajkk04-max/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/midlajkk04-max/leetcode/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/midlajkk04-max/leetcode/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/midlajkk04-max/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/midlajkk04-max/leetcode/tree/master/0500-keyboard-row) |
 | [1436-destination-city](https://github.com/midlajkk04-max/leetcode/tree/master/1436-destination-city) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/midlajkk04-max/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/midlajkk04-max/leetcode/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/midlajkk04-max/leetcode/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/midlajkk04-max/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/midlajkk04-max/leetcode/tree/master/0441-arranging-coins) |
 | [2540-minimum-common-value](https://github.com/midlajkk04-max/leetcode/tree/master/2540-minimum-common-value) |
