@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/midlajkk04-max/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/midlajkk04-max/leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/midlajkk04-max/leetcode/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/midlajkk04-max/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/midlajkk04-max/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/midlajkk04-max/leetcode/tree/master/0500-keyboard-row) |
 | [1436-destination-city](https://github.com/midlajkk04-max/leetcode/tree/master/1436-destination-city) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/midlajkk04-max/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/midlajkk04-max/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/midlajkk04-max/leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/midlajkk04-max/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/midlajkk04-max/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/midlajkk04-max/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/midlajkk04-max/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
