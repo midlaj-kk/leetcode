@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/midlajkk04-max/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/midlajkk04-max/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/midlajkk04-max/leetcode/tree/master/0409-longest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/midlajkk04-max/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/midlajkk04-max/leetcode/tree/master/0500-keyboard-row) |
 | [1021-remove-outermost-parentheses](https://github.com/midlajkk04-max/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1436-destination-city](https://github.com/midlajkk04-max/leetcode/tree/master/1436-destination-city) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/midlajkk04-max/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/midlajkk04-max/leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Tree
 |  |
 | ------- |
