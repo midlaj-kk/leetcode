@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/midlajkk04-max/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/midlajkk04-max/leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/midlajkk04-max/leetcode/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/midlajkk04-max/leetcode/tree/master/0492-construct-the-rectangle) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/midlajkk04-max/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/midlajkk04-max/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/midlajkk04-max/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
