@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/midlajkk04-max/leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/midlajkk04-max/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/midlajkk04-max/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/midlajkk04-max/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/midlajkk04-max/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/midlajkk04-max/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/midlajkk04-max/leetcode/tree/master/0500-keyboard-row) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/midlajkk04-max/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/midlajkk04-max/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/midlajkk04-max/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/midlajkk04-max/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/midlajkk04-max/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/midlajkk04-max/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/midlajkk04-max/leetcode/tree/master/0409-longest-palindrome) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/midlajkk04-max/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/midlajkk04-max/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/midlajkk04-max/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/midlajkk04-max/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/midlajkk04-max/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2540-minimum-common-value](https://github.com/midlajkk04-max/leetcode/tree/master/2540-minimum-common-value) |
 ## String
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/midlajkk04-max/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/midlajkk04-max/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/midlajkk04-max/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/midlajkk04-max/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/midlajkk04-max/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/midlajkk04-max/leetcode/tree/master/0414-third-maximum-number) |
 | [3024-type-of-triangle](https://github.com/midlajkk04-max/leetcode/tree/master/3024-type-of-triangle) |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/midlajkk04-max/leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/midlajkk04-max/leetcode/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/midlajkk04-max/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/midlajkk04-max/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/midlajkk04-max/leetcode/tree/master/0441-arranging-coins) |
 | [2540-minimum-common-value](https://github.com/midlajkk04-max/leetcode/tree/master/2540-minimum-common-value) |
 ## Greedy
