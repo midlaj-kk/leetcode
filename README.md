@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/midlajkk04-max/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/midlajkk04-max/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/midlajkk04-max/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/midlajkk04-max/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/midlajkk04-max/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/midlajkk04-max/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/midlajkk04-max/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/midlajkk04-max/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/midlajkk04-max/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/midlajkk04-max/leetcode/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/midlajkk04-max/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/midlajkk04-max/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/midlajkk04-max/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/midlajkk04-max/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -355,4 +357,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/midlajkk04-max/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/midlajkk04-max/leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/midlajkk04-max/leetcode/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/midlajkk04-max/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
