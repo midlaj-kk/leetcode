@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/midlajkk04-max/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/midlajkk04-max/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/midlajkk04-max/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/midlajkk04-max/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/midlajkk04-max/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/midlajkk04-max/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/midlajkk04-max/leetcode/tree/master/0228-summary-ranges) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/midlajkk04-max/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/midlajkk04-max/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/midlajkk04-max/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/midlajkk04-max/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/midlajkk04-max/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/midlajkk04-max/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/midlajkk04-max/leetcode/tree/master/0202-happy-number) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/midlajkk04-max/leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/midlajkk04-max/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/midlajkk04-max/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/midlajkk04-max/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/midlajkk04-max/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/midlajkk04-max/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/midlajkk04-max/leetcode/tree/master/0496-next-greater-element-i) |
