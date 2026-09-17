@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/midlajkk04-max/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/midlajkk04-max/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/midlajkk04-max/leetcode/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/midlajkk04-max/leetcode/tree/master/0541-reverse-string-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/midlajkk04-max/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2540-minimum-common-value](https://github.com/midlajkk04-max/leetcode/tree/master/2540-minimum-common-value) |
 ## String
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/midlajkk04-max/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/midlajkk04-max/leetcode/tree/master/0500-keyboard-row) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/midlajkk04-max/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0541-reverse-string-ii](https://github.com/midlajkk04-max/leetcode/tree/master/0541-reverse-string-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/midlajkk04-max/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1436-destination-city](https://github.com/midlajkk04-max/leetcode/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/midlajkk04-max/leetcode/tree/master/1528-shuffle-string) |
