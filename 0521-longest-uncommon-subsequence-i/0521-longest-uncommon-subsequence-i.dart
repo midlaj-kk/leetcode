@@ -1,0 +1,8 @@
+class Solution {
+  int findLUSlength(String a, String b) {
+    if(a==b){
+        return -1;
+    }
+    return a.length<b.length?b.length:a.length;
+  }
+}
