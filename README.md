@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/midlajkk04-max/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/midlajkk04-max/leetcode/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/midlajkk04-max/leetcode/tree/master/0605-can-place-flowers) |
+| [0661-image-smoother](https://github.com/midlajkk04-max/leetcode/tree/master/0661-image-smoother) |
 | [1436-destination-city](https://github.com/midlajkk04-max/leetcode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/midlajkk04-max/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/midlajkk04-max/leetcode/tree/master/1528-shuffle-string) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/midlajkk04-max/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/midlajkk04-max/leetcode/tree/master/0048-rotate-image) |
+| [0661-image-smoother](https://github.com/midlajkk04-max/leetcode/tree/master/0661-image-smoother) |
 | [1672-richest-customer-wealth](https://github.com/midlajkk04-max/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Heap (Priority Queue)
 |  |
