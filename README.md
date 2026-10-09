@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/midlajkk04-max/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/midlajkk04-max/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/midlajkk04-max/leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/midlajkk04-max/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/midlajkk04-max/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/midlajkk04-max/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/midlajkk04-max/leetcode/tree/master/0054-spiral-matrix) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/midlajkk04-max/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/midlajkk04-max/leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/midlajkk04-max/leetcode/tree/master/0046-permutations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/midlajkk04-max/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0401-binary-watch](https://github.com/midlajkk04-max/leetcode/tree/master/0401-binary-watch) |
 ## Recursion
