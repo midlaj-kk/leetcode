@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/midlajkk04-max/leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/midlajkk04-max/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/midlajkk04-max/leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/midlajkk04-max/leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/midlajkk04-max/leetcode/tree/master/0057-insert-interval) |
 | [0085-maximal-rectangle](https://github.com/midlajkk04-max/leetcode/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/midlajkk04-max/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/midlajkk04-max/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/midlajkk04-max/leetcode/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/midlajkk04-max/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/midlajkk04-max/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/midlajkk04-max/leetcode/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/midlajkk04-max/leetcode/tree/master/0085-maximal-rectangle) |
 | [0661-image-smoother](https://github.com/midlajkk04-max/leetcode/tree/master/0661-image-smoother) |
 | [1672-richest-customer-wealth](https://github.com/midlajkk04-max/leetcode/tree/master/1672-richest-customer-wealth) |
