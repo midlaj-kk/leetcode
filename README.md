@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/midlajkk04-max/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/midlajkk04-max/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/midlajkk04-max/leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/midlajkk04-max/leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/midlajkk04-max/leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/midlajkk04-max/leetcode/tree/master/0057-insert-interval) |
 | [0085-maximal-rectangle](https://github.com/midlajkk04-max/leetcode/tree/master/0085-maximal-rectangle) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/midlajkk04-max/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/midlajkk04-max/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/midlajkk04-max/leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/midlajkk04-max/leetcode/tree/master/0051-n-queens) |
 | [0095-unique-binary-search-trees-ii](https://github.com/midlajkk04-max/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0401-binary-watch](https://github.com/midlajkk04-max/leetcode/tree/master/0401-binary-watch) |
 ## Recursion
@@ -453,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/midlajkk04-max/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/midlajkk04-max/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
