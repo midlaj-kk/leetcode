@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/midlajkk04-max/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/midlajkk04-max/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/midlajkk04-max/leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/midlajkk04-max/leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/midlajkk04-max/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/midlajkk04-max/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/midlajkk04-max/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/midlajkk04-max/leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/midlajkk04-max/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/midlajkk04-max/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/midlajkk04-max/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/midlajkk04-max/leetcode/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/midlajkk04-max/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
@@ -459,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/midlajkk04-max/leetcode/tree/master/0051-n-queens) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/midlajkk04-max/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
