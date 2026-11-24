@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/midlajkk04-max/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/midlajkk04-max/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/midlajkk04-max/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/midlajkk04-max/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/midlajkk04-max/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/midlajkk04-max/leetcode/tree/master/0071-simplify-path) |
 | [0097-interleaving-string](https://github.com/midlajkk04-max/leetcode/tree/master/0097-interleaving-string) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/midlajkk04-max/leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/midlajkk04-max/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/midlajkk04-max/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/midlajkk04-max/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/midlajkk04-max/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/midlajkk04-max/leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/midlajkk04-max/leetcode/tree/master/0069-sqrtx) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/midlajkk04-max/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/midlajkk04-max/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/midlajkk04-max/leetcode/tree/master/0258-add-digits) |
 ## Number Theory
